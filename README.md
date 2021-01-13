@@ -2,23 +2,41 @@
 
 ### A web page to talk about cats.
 
-### By Micah Olson
+### _By Micah Olson and Cloe Loveall_
 
 ## Technologies Used
 * HTML
+* CSS
+* JavaScript
 
 ## Description
-This page was created as part of a tutorial for the Epicodus code school to illustrate rudimentary web development concepts.
+This page was created as part of a tutorial for the Epicodus code school to illustrate rudimentary web development concepts, and later updated to include a 'dark mode' using JavaScript.
 
 ## Setup/Installation Requirements
-* Clone from [this repository](https://github.com/MicahOlson/my-cats) and edit as desired.
+* To edit play with a local copy yourself, follow the instructions below:  
+
+* Use git to clone the project to your local directory of choice ([how to install git](https://www.learnhowtoprogram.com/introduction-to-programming/getting-started-with-intro-to-programming/git-and-github)):  
+  $ cd ~/\[directory-of-choice\]  
+  $ git clone https[]()://github.com/MicahOlson/intro-to-jquery.git  
+
+* Remove all remotes nicknamed 'origin' pointing to my repository:  
+  To view-  
+  $ git remote -v  
+
+  To remove-  
+  $ git remote rm origin  
+* Add new remotes pointing to your repositories of choice:  
+  $ git remote add \[location-nickname\] \[location\]  
+
+* Open the files in your editor of choice and have fun!
 
 ## Known Bugs
-* No known bugs reported.
-* Please report bugs to the contact below.
+* No known bugs.
+* This project will be under regular development. 
 
 ## License
 [GPL](https://choosealicense.com/licenses/gpl-3.0/)
 
 ## Contact Information
-Micah L. Olson 76067607+MicahOlson@users.noreply.github.com
+Micah L. Olson micah@fakemail.com  
+Chloe Loveall chloe@fakemail.com
