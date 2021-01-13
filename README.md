@@ -2,7 +2,7 @@
 
 ### A web page to talk about cats.
 
-### _By Micah Olson and Cloe Loveall_
+### _By Micah Olson and Chloe Loveall_
 
 ## Technologies Used
 * HTML
@@ -13,7 +13,7 @@
 This page was created as part of a tutorial for the Epicodus code school to illustrate rudimentary web development concepts, and later updated to include a 'dark mode' using JavaScript.
 
 ## Setup/Installation Requirements
-* To edit play with a local copy yourself, follow the instructions below:  
+* The web page can be viewed [here](https://micaholson.github.io/my-cats). To edit play with a local copy yourself, follow the instructions below:  
 
 * Use git to clone the project to your local directory of choice ([how to install git](https://www.learnhowtoprogram.com/introduction-to-programming/getting-started-with-intro-to-programming/git-and-github)):  
   $ cd ~/\[directory-of-choice\]  
