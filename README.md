@@ -17,7 +17,7 @@ This page was created as part of a tutorial for the Epicodus code school to illu
 
 * Use git to clone the project to your local directory of choice ([how to install git](https://www.learnhowtoprogram.com/introduction-to-programming/getting-started-with-intro-to-programming/git-and-github)):  
   $ cd ~/\[directory-of-choice\]  
-  $ git clone https[]()://github.com/MicahOlson/intro-to-jquery.git  
+  $ git clone https[]()://github.com/MicahOlson/my-cats.git  
 
 * Remove all remotes nicknamed 'origin' pointing to my repository:  
   To view-  
